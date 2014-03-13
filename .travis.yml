@@ -5,3 +5,7 @@
  jdk:
    - oraclejdk7
    - openjdk7
+notifications:
+    email:
+        - vidyac.raghav@gmail.com 
+        - vidya@shippable.com
